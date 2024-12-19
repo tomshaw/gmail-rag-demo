@@ -1,6 +1,6 @@
 # Gmail RAG Demo
 
-This script allows you to access emails from your Gmail account using the Gmail API.
+Run RAG operations on Gmail to analyze relevant information.
 
 ## Setup
 
